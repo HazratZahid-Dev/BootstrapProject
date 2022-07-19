@@ -1,0 +1,19 @@
+.outer{
+    width: 1200px;
+    height: 500px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 80px;
+    background-image: linear-gradient(to right, rgb(136, 13, 13) , rgb(175, 175, 3));
+}
+.inner{
+    width: 800px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.top-image{
+    border-radius: 100%;
+}

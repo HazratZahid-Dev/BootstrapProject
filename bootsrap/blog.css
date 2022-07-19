@@ -1,0 +1,32 @@
+#{
+    width: 239px;
+    height: 200px;
+}
+.footer{
+    text-align: center;
+    border-top: 1px solid rgb(214, 208, 208);
+}
+.sample{
+    margin-bottom: 5px;
+    border-bottom: 1px solid rgb(214, 208, 208);
+    padding: 10px;
+
+}
+.mindgig{
+    border-bottom: 1px solid rgb(214, 208, 208);
+    padding: 10px;
+
+}
+.white{
+    background-color: rgb(247, 250, 252);
+}
+.color{
+    color: black;
+    text-decoration: none;
+}
+
+.font{
+    font-size: 30px;
+    margin-top: 15px;
+    color: rgb(120, 120, 133);
+}
